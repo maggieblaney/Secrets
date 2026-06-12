@@ -1,0 +1,15 @@
+{
+  "service": "billing-api",
+  "environment": "test",
+  "logging": { "level": "info" },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "admin",
+    "password": "FakePassword123!"
+  },
+  "features": {
+    "enableCaching": true,
+    "enableMetrics": true
+  }
+}
