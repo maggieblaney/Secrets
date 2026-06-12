@@ -1,0 +1,9 @@
+# brew install go 
+
+# git clone https://github.com/Checkmarx/2ms.git 
+
+# cd 2ms 
+
+# go build 
+
+# ./2ms –confluence https://<MyConfluence>.atlassian.net/wiki –confluence-spaces <MySpace> –confluence-username <MyUsername> –confluence-token <MyToken> 
